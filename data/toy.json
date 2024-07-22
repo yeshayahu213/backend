@@ -1,0 +1,85 @@
+[
+    {
+        "name": "asas!!",
+        "price": 100,
+        "labels": [
+            "Art",
+            "On wheels"
+        ],
+        "_id": "1BxLH",
+        "createdAt": 1721054345215,
+        "inStock": true
+    },
+    {
+        "_id": "t101",
+        "name": "Talking Doll",
+        "price": 100,
+        "labels": [
+            "Doll",
+            "Baby"
+        ],
+        "createdAt": 1631031801011,
+        "inStock": false
+    },
+    {
+        "_id": "t113",
+        "name": "Wooden Play Kitchen",
+        "price": 75000,
+        "labels": [
+            "Baby"
+        ],
+        "createdAt": 1631043801011,
+        "inStock": true
+    },
+    {
+        "_id": "t114",
+        "name": "Racing Car Set",
+        "price": 70,
+        "labels": [
+            "On wheels"
+        ],
+        "createdAt": 1631044801011,
+        "inStock": false
+    },
+    {
+        "_id": "t115",
+        "name": "Glow-in-the-Dark Stars",
+        "price": 15,
+        "labels": [
+            "Art"
+        ],
+        "createdAt": 1631045801011,
+        "inStock": true
+    },
+    {
+        "_id": "t116",
+        "name": "Electronic Drum Kit",
+        "price": 85,
+        "labels": [
+            "Battery Powered"
+        ],
+        "createdAt": 1631046801011,
+        "inStock": false
+    },
+    {
+        "_id": "t117",
+        "name": "Outdoor Playhouse",
+        "price": 120,
+        "labels": [
+            "Outdoor"
+        ],
+        "createdAt": 1631047801011,
+        "inStock": true
+    },
+    {
+        "name": "new",
+        "price": 100,
+        "labels": [
+            "Art",
+            "Baby"
+        ],
+        "_id": "FGFSG",
+        "createdAt": 1720589736092,
+        "inStock": true
+    }
+]
